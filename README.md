@@ -1,19 +1,15 @@
-# 🚧 Django + Vue.js
+# Django + Vue.js
 
-> ⚠️ **Bu repo hozircha bo'sh** — hali kod qo'shilmagan.
+A full-stack template idea: Django for the backend, Vue.js for the frontend.
 
-**Django** (backend) + **Vue.js** (frontend) to'liq stack loyihasi uchun ochilgan repo.
+Status: **work in progress** — no application code yet.
 
----
+## Plan
 
-## 📌 Reja
-
-- [ ] Django backend API
+- [ ] Django REST backend
 - [ ] Vue.js frontend
-- [ ] Ulanish va test
+- [ ] Connect the two and test
 
----
+## License
 
-## 📄 Litsenziya
-
-Litsenziya ko'rsatilmagan.
+MIT
